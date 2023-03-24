@@ -10,7 +10,7 @@
                 "logo": null,
                 "metadata": {
                   "key": {
-                    "String": "value"
+                    "U128": 1
                   }
                 }
               }
@@ -27,7 +27,7 @@
                 ],
                 "metadata": {
                   "key": {
-                    "String": "value"
+                    "U128": 1
                   }
                 }
               }
@@ -44,7 +44,7 @@
                 ],
                 "metadata": {
                   "key": {
-                    "String": "value"
+                    "U128": 1
                   }
                 }
               }

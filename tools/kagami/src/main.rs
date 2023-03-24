@@ -236,7 +236,7 @@ mod genesis {
         let mut meta = Metadata::new();
         meta.insert_with_limits(
             "key".parse()?,
-            "value".to_owned().into(),
+            1u128.to_owned().into(),
             Limits::new(1024, 1024),
         )?;
 
